@@ -202,6 +202,12 @@
         <mxCell id="-gWjbdV3mslaM5KhAlm3-178" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="730" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="-gWjbdV3mslaM5KhAlm3-179" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;cat 6&lt;/h1&gt;&lt;p&gt;300M&lt;/p&gt;&lt;p&gt;Wifi(802.11n/ac)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-gWjbdV3mslaM5KhAlm3-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-gWjbdV3mslaM5KhAlm3-179" target="-dcKWdusKPxa610ObrPj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
